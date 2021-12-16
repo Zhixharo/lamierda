@@ -1,15 +1,5 @@
-#EXTM3U  Zhixharo
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/ca.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/de.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/fr.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/gb.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml"
 
-
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50927786067_307ec38201.jpg" group-title="Peliculas ES" ,Orbita TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w154294281.m3u8
