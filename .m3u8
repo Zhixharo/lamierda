@@ -1,5 +1,9 @@
 #EXTM3U  Zhixharo
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml"
+
+
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/50927786067_307ec38201.jpg" group-title="Peliculas ES" ,Orbita TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w154294281.m3u8
